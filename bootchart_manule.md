@@ -1,0 +1,2 @@
+- [ ] 系统启动性能分析工具bootchart应用方法
+- [x] bootchart
